@@ -18,19 +18,23 @@ The app lets you create users, view all users, edit user details, and delete use
 
 ### Create User
 
-![Create User page](screenshots/home.png)
+![Create User page](<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/af63c41a-d17f-4493-92ef-85c3987257cd" />
+)
 
 ### All Users
 
-![Users dashboard](screenshots/users.png)
+![Users dashboard](<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/2fe921d2-384d-432f-bc73-dab277914481" />
+)
 
 ### Edit User
 
-![Edit user page](screenshots/edit-user.png)
+![Edit user page](<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/bac4881c-a5d2-4ae7-9614-0029a63e9496" />
+)
 
 ### Updated Users
 
-![Updated users dashboard](screenshots/updated-users.png)
+![Updated users dashboard](<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/8a63a4a5-c68e-443b-8c9a-22d1c9b31659" />
+)
 
 ## Tech Stack
 
