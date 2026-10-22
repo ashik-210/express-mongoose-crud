@@ -18,23 +18,19 @@ The app lets you create users, view all users, edit user details, and delete use
 
 ### Create User
 
-![Create User page](<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/af63c41a-d17f-4493-92ef-85c3987257cd" />
-)
+<img width="1366" alt="Create User page" src="https://github.com/user-attachments/assets/af63c41a-d17f-4493-92ef-85c3987257cd" />
 
 ### All Users
 
-![Users dashboard](<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/2fe921d2-384d-432f-bc73-dab277914481" />
-)
+<img width="1366" alt="Users dashboard" src="https://github.com/user-attachments/assets/2fe921d2-384d-432f-bc73-dab277914481" />
 
 ### Edit User
 
-![Edit user page](<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/bac4881c-a5d2-4ae7-9614-0029a63e9496" />
-)
+<img width="1366" alt="Edit user page" src="https://github.com/user-attachments/assets/bac4881c-a5d2-4ae7-9614-0029a63e9496" />
 
 ### Updated Users
 
-![Updated users dashboard](<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/8a63a4a5-c68e-443b-8c9a-22d1c9b31659" />
-)
+<img width="1366" alt="Updated users dashboard" src="https://github.com/user-attachments/assets/8a63a4a5-c68e-443b-8c9a-22d1c9b31659" />
 
 ## Tech Stack
 
@@ -63,7 +59,7 @@ The app lets you create users, view all users, edit user details, and delete use
 
 3. Make sure MongoDB is running locally.
 
-4. Start the app using your project's start command, or run:
+4. Start the application:
 
    ```bash
    node app.js
@@ -71,7 +67,7 @@ The app lets you create users, view all users, edit user details, and delete use
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-> If your entry file is not `app.js`, replace it with the correct filename. Make sure `package.json` includes the dependencies needed by the project.
+> Make sure your MongoDB service is running and your `package.json` contains the required dependencies.
 
 ## What I Learned
 
